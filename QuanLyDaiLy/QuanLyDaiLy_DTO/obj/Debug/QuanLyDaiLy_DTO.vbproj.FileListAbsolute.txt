@@ -1,0 +1,12 @@
+E:\QuanLyDaiLy\QuanLyDaiLy_DTO\bin\Debug\QuanLyDaiLy_DTO.dll
+E:\QuanLyDaiLy\QuanLyDaiLy_DTO\bin\Debug\QuanLyDaiLy_DTO.pdb
+E:\QuanLyDaiLy\QuanLyDaiLy_DTO\bin\Debug\QuanLyDaiLy_DTO.xml
+E:\QuanLyDaiLy\QuanLyDaiLy_DTO\bin\Debug\Utility.dll
+E:\QuanLyDaiLy\QuanLyDaiLy_DTO\bin\Debug\Utility.pdb
+E:\QuanLyDaiLy\QuanLyDaiLy_DTO\bin\Debug\Utility.xml
+E:\QuanLyDaiLy\QuanLyDaiLy_DTO\obj\Debug\QuanLyDaiLy_DTO.vbprojResolveAssemblyReference.cache
+E:\QuanLyDaiLy\QuanLyDaiLy_DTO\obj\Debug\QuanLyDaiLy_DTO.Resources.resources
+E:\QuanLyDaiLy\QuanLyDaiLy_DTO\obj\Debug\QuanLyDaiLy_DTO.vbproj.GenerateResource.Cache
+E:\QuanLyDaiLy\QuanLyDaiLy_DTO\obj\Debug\QuanLyDaiLy_DTO.dll
+E:\QuanLyDaiLy\QuanLyDaiLy_DTO\obj\Debug\QuanLyDaiLy_DTO.xml
+E:\QuanLyDaiLy\QuanLyDaiLy_DTO\obj\Debug\QuanLyDaiLy_DTO.pdb

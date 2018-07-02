@@ -1,0 +1,135 @@
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_GUI.exe.config
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_GUI.exe
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_GUI.pdb
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_GUI.xml
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_BUS.dll
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_DTO.dll
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\Utility.dll
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_DAL.dll
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_BUS.pdb
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_BUS.xml
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_DTO.pdb
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_DTO.xml
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\Utility.pdb
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\Utility.xml
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_DAL.pdb
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_DAL.xml
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.vbprojResolveAssemblyReference.cache
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmMain.resources
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmQLDaiLy.resources
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmThemDaiLy.resources
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmThemLoaiDaiLy.resources
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmThemQuan.resources
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.Resources.resources
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.vbproj.GenerateResource.Cache
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.exe
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.xml
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.pdb
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmQLLoaiDaiLy.resources
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmQLQuan.resources
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmThemPhieuXuat.resources
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmQLPhieuXuat.resources
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmQLMatHang.resources
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmThemMatHang.resources
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmThemDonViTinh.resources
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmQLDonViTinh.resources
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmThemChiTietPhieuXuat.resources
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmQLChiTietPhieuXuat.resources
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmQLPhieuThu.resources
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmThemPhieuThu.resources
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmQuiDinh.resources
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmTraCuuDaiLy.resources
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmBaoCaoCongNo.resources
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmBaoCaoDoanhSo.resources
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\MetroFramework.dll
+E:\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_GUI.exe.config
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.exe
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.xml
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.pdb
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_GUI.exe
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_GUI.pdb
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_GUI.xml
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\MetroFramework.dll
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_BUS.dll
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_DTO.dll
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\Utility.dll
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_DAL.dll
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_BUS.pdb
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_BUS.xml
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_DTO.pdb
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_DTO.xml
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\Utility.pdb
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\Utility.xml
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_DAL.pdb
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_DAL.xml
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.vbprojResolveAssemblyReference.cache
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmMain.resources
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmQLChiTietPhieuXuat.resources
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmBaoCaoCongNo.resources
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmQLDaiLy.resources
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmBaoCaoDoanhSo.resources
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmQLLoaiDaiLy.resources
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmQLMatHang.resources
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmQLPhieuThu.resources
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmQLPhieuXuat.resources
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmQLQuan.resources
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmQuiDinh.resources
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmThemChiTietPhieuXuat.resources
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmThemDaiLy.resources
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmThemDonViTinh.resources
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmThemLoaiDaiLy.resources
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmThemMatHang.resources
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmThemPhieuThu.resources
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmThemPhieuXuat.resources
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmThemQuan.resources
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmTraCuuDaiLy.resources
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.Resources.resources
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmQLDonViTinh.resources
+C:\Users\Kaitou Kid\Desktop\QuanLyDaiLy0\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.vbproj.GenerateResource.Cache
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_GUI.exe.config
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_GUI.exe
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_GUI.pdb
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_GUI.xml
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\MetroFramework.dll
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_BUS.dll
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_DTO.dll
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\Utility.dll
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_DAL.dll
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_BUS.pdb
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_BUS.xml
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_DTO.pdb
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_DTO.xml
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\Utility.pdb
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\Utility.xml
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_DAL.pdb
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\bin\Debug\QuanLyDaiLy_DAL.xml
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.vbprojResolveAssemblyReference.cache
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmMain.resources
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmQLChiTietPhieuXuat.resources
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmBaoCaoCongNo.resources
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmQLDaiLy.resources
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmBaoCaoDoanhSo.resources
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmQLLoaiDaiLy.resources
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmQLMatHang.resources
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmQLPhieuThu.resources
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmQLPhieuXuat.resources
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmQLQuan.resources
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmQuiDinh.resources
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmThemChiTietPhieuXuat.resources
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmThemDaiLy.resources
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmThemDonViTinh.resources
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmThemLoaiDaiLy.resources
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmThemMatHang.resources
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmThemPhieuThu.resources
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmThemPhieuXuat.resources
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmThemQuan.resources
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmTraCuuDaiLy.resources
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.Resources.resources
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.frmQLDonViTinh.resources
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.vbproj.GenerateResource.Cache
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.exe
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.xml
+C:\Users\tuanlocstore.vn\Downloads\QuanLyDaiLy00\QuanLyDaiLy\QuanLyDaiLy_GUI\obj\Debug\QuanLyDaiLy_GUI.pdb

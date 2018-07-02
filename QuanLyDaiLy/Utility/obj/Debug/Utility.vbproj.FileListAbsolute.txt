@@ -1,0 +1,9 @@
+E:\QuanLyDaiLy\Utility\bin\Debug\Utility.dll
+E:\QuanLyDaiLy\Utility\bin\Debug\Utility.pdb
+E:\QuanLyDaiLy\Utility\bin\Debug\Utility.xml
+E:\QuanLyDaiLy\Utility\obj\Debug\Utility.vbprojResolveAssemblyReference.cache
+E:\QuanLyDaiLy\Utility\obj\Debug\Utility.Resources.resources
+E:\QuanLyDaiLy\Utility\obj\Debug\Utility.vbproj.GenerateResource.Cache
+E:\QuanLyDaiLy\Utility\obj\Debug\Utility.dll
+E:\QuanLyDaiLy\Utility\obj\Debug\Utility.xml
+E:\QuanLyDaiLy\Utility\obj\Debug\Utility.pdb
